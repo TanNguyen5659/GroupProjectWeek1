@@ -1,5 +1,5 @@
-Tan: Landing page
-Jenequa: how-to page
+Tan: how-it-works page
+Jenequa: landing page
 Tony: sign in/sign up
 Kai: tbd....????
 Harrison: git repository, fine tuning
